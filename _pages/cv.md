@@ -21,7 +21,8 @@ Education
 
 Teaching experience
 ======
-* Fall 2020: TA for bachelor-level Mathematical Analysis 1 at Università di Torino
+* Fall 2023: GSI for STATS 250, University of Michigan, Ann Arbor
+* Fall 2020: TA for Mathematical Analysis 1, Università di Torino
 
 Awards and Honors
 ======

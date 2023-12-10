@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in [Statistics](https://lsa.umich.edu/stats/phd-students.html), University of Michigan Ann Arbor, 2028 (expected)
+* Ph.D. in [Statistics](https://lsa.umich.edu/stats/phd-students.html), University of Michigan, 2028 (expected)
 * Master in [Statistics and Applied Mathematics](https://www.carloalberto.org/education/allievi-honors-program/junior-and-economics-statistics-appliedmathematics-track/), Collegio Carlo Alberto, 2023
     * awarded with distinction
 * M.Sc. in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl), University of Torino, 2023
@@ -21,8 +21,8 @@ Education
 
 Teaching experience
 ======
-* Fall 2023: GSI for STATS 250, University of Michigan, Ann Arbor
-* Fall 2020: TA for Mathematical Analysis 1, Università di Torino
+* Fall 2023: GSI for STATS 250, University of Michigan
+* Fall 2020: TA for Mathematical Analysis 1, University of Torino
 
 Awards and Honors
 ======
